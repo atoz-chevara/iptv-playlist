@@ -5,14 +5,24 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/512.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="RCTI HD" tvg-logo="RCTI" group-title="Indonesian",Indonesian:RCTI HD
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="GlobalTV" tvg-logo="GlobalTV" group-title="Indonesian",Indonesian:GlobalTV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="GlobalTV SD" tvg-logo="GlobalTV" group-title="Indonesian",Indonesian:GlobalTV SD
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/512.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="GlobalTV HD" tvg-logo="GlobalTV" group-title="Indonesian",Indonesian:GlobalTV HD
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews SD" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/512.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews HD" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCSHOP" tvg-logo="MNCSHOP" group-title="Indonesian",Indonesian:MNCSHOP
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCSHOP SD" tvg-logo="MNCSHOP" group-title="Indonesian",Indonesian:MNCSHOP
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/512.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCSHOP HD" tvg-logo="MNCSHOP" group-title="Indonesian",Indonesian:MNCSHOP
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ANTV" tvg-logo="ANTV" group-title="Indonesian",Indonesian:ANTV
 rtmp://202.129.216.27/antv/antv1
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Rajawali TV" tvg-logo="RTV" group-title="Indonesian",Indonesian:Rajawali TV
