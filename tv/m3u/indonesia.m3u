@@ -9,10 +9,16 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/512.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="GlobalTV HD" tvg-logo="GlobalTV" group-title="Indonesian",Indonesian:GlobalTV HD
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCSHOP" tvg-logo="MNCSHOP" group-title="Indonesian",Indonesian:MNCSHOP
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ANTV" tvg-logo="ANTV" group-title="Indonesian",Indonesian:ANTV
 rtmp://202.129.216.27/antv/antv1
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Rajawali TV" tvg-logo="RTV" group-title="Indonesian",Indonesian:Rajawali TV
 rtmp://203.153.97.35/live/livestream
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MetroTV" tvg-logo="MetroTV" group-title="Indonesian",Indonesian:MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="France 24" tvg-logo="France 24" group-title="Indonesian",Indonesian:France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
