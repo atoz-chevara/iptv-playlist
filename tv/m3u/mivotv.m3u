@@ -1,0 +1,28 @@
+#EXTM3U $ExtFilter="MIVOTV"
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:ANTV
+http://103.18.239.130/sedz1j6exeot/antv2_all/sedz1j6exeot/antv2_576p/chunks.m3u8?nimblesessionid=107267765&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxNSAgNToyMToxMiBQTSZoYXNoX3ZhbHVlPXRBeEc5amtNMit2REtvQzQ0R1IzUHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:Mivo TV
+http://103.18.239.130/sedz1j6exeot/mivotv_all/sedz1j6exeot/mivotv_720p/chunks.m3u8?nimblesessionid=107270113&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxNSAgNToyMToxMiBQTSZoYXNoX3ZhbHVlPXRBeEc5amtNMit2REtvQzQ0R1IzUHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:Cahaya TV
+http://103.18.239.131/sedz1j6exeot/cahayatv_all/sedz1j6exeot/cahayatv_480p/chunks.m3u8?nimblesessionid=14627039&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxNSAgNToyMToxMiBQTSZoYXNoX3ZhbHVlPXRBeEc5amtNMit2REtvQzQ0R1IzUHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:SCTV
+http://103.18.239.130/sedz1j6exeot/sctv2_all/sedz1j6exeot/sctv2_576p/chunks.m3u8?nimblesessionid=107271426&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxNSAgNToyMToxMiBQTSZoYXNoX3ZhbHVlPXRBeEc5amtNMit2REtvQzQ0R1IzUHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:LBS K-DRAMA
+http://103.18.239.131/sedz1j6exeot/ldrama2_all/sedz1j6exeot/ldrama2_240p/chunks.m3u8?nimblesessionid=14627141&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxNSAgNToyMToxMiBQTSZoYXNoX3ZhbHVlPXRBeEc5amtNMit2REtvQzQ0R1IzUHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:JTV
+http://103.18.239.130/sedz1j6exeot/jawatv_all/sedz1j6exeot/jawatv_576p/chunks.m3u8?nimblesessionid=107272365&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxNSAgNToyMToxMiBQTSZoYXNoX3ZhbHVlPXRBeEc5amtNMit2REtvQzQ0R1IzUHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:Phoinix TV HD
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:O Channel
+http://103.18.239.130/sedz1j6exeot/ochannel_all/sedz1j6exeot/ochannel_576p/chunks.m3u8?nimblesessionid=107276630&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxNSAgNTo0ODo1MSBQTSZoYXNoX3ZhbHVlPTV0NGVXaVpsdlpkMnhYZ1JDS0Y2MUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:.NET
+http://103.18.239.130/sedz1j6exeot/nettv_all/sedz1j6exeot/nettv_576p/chunks.m3u8?nimblesessionid=107277146&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxNSAgNTo0ODo1MSBQTSZoYXNoX3ZhbHVlPTV0NGVXaVpsdlpkMnhYZ1JDS0Y2MUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:
+
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:
+
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:
+
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:
+
+#EXTINF:-1 $ExtFilter="MIVOTV",MIVOTV:
