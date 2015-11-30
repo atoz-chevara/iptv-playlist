@@ -25,6 +25,10 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/512.m3u8
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ANTV" tvg-logo="ANTV" group-title="Indonesian",Indonesian:ANTV
 rtmp://202.129.216.27/antv/antv1
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="tvOne" tvg-logo="tvOne" group-title="Indonesian",Indonesian:tvOne
+rtmp://202.129.216.27/tvone/tvone1
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="insanTV" tvg-logo="insanTV" group-title="Indonesian",Indonesian:insanTV
+rtmp://insantv.com/live/insantv
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Rajawali TV" tvg-logo="RTV" group-title="Indonesian",Indonesian:Rajawali TV
 rtmp://203.153.97.35/live/livestream
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="SCTV" tvg-logo="SCTV" group-title="Indonesian",Indonesian:SCTV
