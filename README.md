@@ -1,5 +1,5 @@
 # iptv-playlist
-My IPTV Playlist for KODI
+My IPTV Playlist for KODI, SimpleTV, IPTV, IP-TV and more
 
 ## How to use
 
