@@ -37,10 +37,10 @@ http://livestreaming-a.production.liputan6.static6.com/i/sctv_1@137568/index_1_a
 http://livestreaming-a.production.liputan6.static6.com/i/indosiar_1@137568/index_1_av-p.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MetroTV" tvg-logo="MetroTV" group-title="Indonesian",Indonesian:MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="France 24" tvg-logo="France" group-title="Indonesian",Indonesian:France 24
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="France 24" tvg-logo="F24" group-title="Indonesian",Indonesian:France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Arirang" tvg-logo="Arirang" group-title="Indonesian",Indonesian:Arirang
 http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ABC News" tvg-logo="ABC" group-title="Indonesian",Indonesian:ABC News
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ABC News" tvg-logo="ABCNEWS" group-title="Indonesian",Indonesian:ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
