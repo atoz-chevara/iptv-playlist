@@ -16,4 +16,5 @@ My IPTV Playlist for KODI
 ### List Channel
 
 1. Indonesian TV Channel https://goo.gl/30ybcm
-2. UseeTV Channel https://goo.gl/SHW8H5
+*  UseeTV Channel https://goo.gl/SHW8H5
+*  Mivo TV Channel https://goo.gl/kn0o4O
