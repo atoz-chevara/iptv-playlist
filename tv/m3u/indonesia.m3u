@@ -41,6 +41,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Arirang" tvg-logo="Arirang" group-title="Indonesian",Indonesian:Arirang
 http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ABC News" tvg-logo="ABCNEWS" group-title="Indonesian",Indonesian:ABC News
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ABC News" tvg-logo="abc" group-title="Indonesian",Indonesian:ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
