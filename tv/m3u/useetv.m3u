@@ -1,0 +1,24 @@
+#EXTM3U $ExtFilter="UseeTV"
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:RCTI
+http://180.250.29.21/jhos/rcti.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:GlobalTV
+http://180.250.29.21/jhos/globaltv.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:TransTV
+http://180.250.29.12/jhos/transtv.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:Trans7
+http://180.250.29.12/jhos/trans7.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:tvOne
+http://180.250.29.12/jhos/tvone.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:ANTV
+http://180.250.29.12/jhos/antv.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:.Net
+http://180.250.29.12/jhos/net.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:Al-Jazeera
+http://180.250.29.21/jhos/aljazeera.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:Arirang
+http://180.250.29.21/jhos/arirang.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:KBS World
+http://180.250.29.21/jhos/kbs.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:Rajawali TV
+http://180.250.29.12/jhos/rtv.m3u8
+

@@ -1,0 +1,16 @@
+#EXTM3U $ExtFilter="Indonesian"
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="RCTI" tvg-logo="RCTI" group-title="Indonesian",Indonesian:RCTI
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="RCTI SD" tvg-logo="RCTI" group-title="Indonesian",Indonesian:RCTI SD
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/512.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="RCTI HD" tvg-logo="RCTI" group-title="Indonesian",Indonesian:RCTI HD
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="GlobalTV SD" tvg-logo="GlobalTV" group-title="Indonesian",Indonesian:GlobalTV SD
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/512.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="GlobalTV HD" tvg-logo="GlobalTV" group-title="Indonesian",Indonesian:GlobalTV HD
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ANTV" tvg-logo="ANTV" group-title="Indonesian",Indonesian:ANTV
+rtmp://202.129.216.27/antv/antv1
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="France 24" tvg-logo="France 24" group-title="Indonesian",Indonesian:France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
