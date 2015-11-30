@@ -13,15 +13,23 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/512.m3u8
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews SD" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews SD" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews SD
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/512.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews HD" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews HD" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews HD
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCTV" tvg-logo="MNCTV" group-title="Indonesian",Indonesian:MNCTV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCNEWS" tvg-logo="MNCNEWS" group-title="Indonesian",Indonesian:MNCNEWS
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCMUSIC" tvg-logo="MNCMUSIC" group-title="Indonesian",Indonesian:MNCMUSIC
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCInfotaiment" tvg-logo="MNCInfotaiment" group-title="Indonesian",Indonesian:MNCInfotaiment
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000038/index.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCSHOP" tvg-logo="MNCSHOP" group-title="Indonesian",Indonesian:MNCSHOP
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCSHOP SD" tvg-logo="MNCSHOP" group-title="Indonesian",Indonesian:MNCSHOP
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCSHOP SD" tvg-logo="MNCSHOP" group-title="Indonesian",Indonesian:MNCSHOP SD
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/512.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCSHOP HD" tvg-logo="MNCSHOP" group-title="Indonesian",Indonesian:MNCSHOP
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCSHOP HD" tvg-logo="MNCSHOP" group-title="Indonesian",Indonesian:MNCSHOP HD
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/atoz-chevara/iptv-playlist/master/tv/m3u/logo/antv.png" group-title="Indonesian",Indonesian:ANTV
 rtmp://202.129.216.27/antv/antv1
@@ -39,8 +47,8 @@ http://livestreaming-a.production.liputan6.static6.com/i/indosiar_1@137568/index
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="France 24" tvg-logo="F24" group-title="Indonesian",Indonesian:France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Arirang" tvg-logo="Arirang" group-title="Indonesian",Indonesian:Arirang
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Arirang" tvg-logo="Arirang" group-title="Indonesian",Indonesian:Arirang HD
 http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ABC News" tvg-logo="abc" group-title="Indonesian",Indonesian:ABC News
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ABC News" tvg-logo="abc" group-title="Indonesian",Indonesian:ABC News HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
