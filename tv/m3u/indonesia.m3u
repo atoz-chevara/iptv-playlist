@@ -29,7 +29,7 @@ rtmp://202.129.216.27/antv/antv1
 rtmp://202.129.216.27/tvone/tvone1
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="insanTV" tvg-logo="insanTV" group-title="Indonesian",Indonesian:insanTV
 rtmp://insantv.com/live/insantv
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Rajawali TV" tvg-logo="RTV" group-title="Indonesian",Indonesian:Rajawali TV
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Rajawali TV" tvg-logo="logo/rtv.png" group-title="Indonesian",Indonesian:Rajawali TV
 rtmp://203.153.97.35/live/livestream
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="SCTV" tvg-logo="logo/sctv.png" group-title="Indonesian",Indonesian:SCTV
 http://livestreaming-a.production.liputan6.static6.com/i/sctv_1@137568/index_1_av-p.m3u8
