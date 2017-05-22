@@ -1,54 +1,159 @@
-#EXTM3U $ExtFilter="Indonesian"
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="RCTI" tvg-logo="http://cable.useetv.com/assets/imagecache/channelThumb/rcti-content-splash-79-.png" group-title="Indonesian",Indonesian:RCTI
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="RCTI SD" tvg-logo="RCTI" group-title="Indonesian",Indonesian:RCTI SD
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/512.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="RCTI HD" tvg-logo="RCTI" group-title="Indonesian",Indonesian:RCTI HD
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="GlobalTV" tvg-logo="GlobalTV" group-title="Indonesian",Indonesian:GlobalTV
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="GlobalTV SD" tvg-logo="GlobalTV" group-title="Indonesian",Indonesian:GlobalTV SD
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/512.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="GlobalTV HD" tvg-logo="GlobalTV" group-title="Indonesian",Indonesian:GlobalTV HD
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews SD" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews SD
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/512.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews HD" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews HD
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCTV" tvg-logo="MNCTV" group-title="Indonesian",Indonesian:MNCTV
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCNEWS" tvg-logo="MNCNEWS" group-title="Indonesian",Indonesian:MNCNEWS
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCMUSIC" tvg-logo="MNCMUSIC" group-title="Indonesian",Indonesian:MNCMUSIC
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCInfotaiment" tvg-logo="MNCInfotaiment" group-title="Indonesian",Indonesian:MNCInfotaiment
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000038/index.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCSHOP" tvg-logo="MNCSHOP" group-title="Indonesian",Indonesian:MNCSHOP
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCSHOP SD" tvg-logo="MNCSHOP" group-title="Indonesian",Indonesian:MNCSHOP SD
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/512.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCSHOP HD" tvg-logo="MNCSHOP" group-title="Indonesian",Indonesian:MNCSHOP HD
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/atoz-chevara/iptv-playlist/master/tv/m3u/logo/antv.png" group-title="Indonesian",Indonesian:ANTV
-rtmp://202.129.216.27/antv/antv1
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="tvOne" tvg-logo="https://raw.githubusercontent.com/atoz-chevara/iptv-playlist/master/tv/m3u/logo/tvone.png" group-title="Indonesian",Indonesian:tvOne
-rtmp://202.129.216.27/tvone/tvone1
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="insanTV" tvg-logo="insanTV" group-title="Indonesian",Indonesian:insanTV
-rtmp://insantv.com/live/insantv
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Rajawali TV" tvg-logo="logo/rtv.png" group-title="Indonesian",Indonesian:Rajawali TV
-rtmp://203.153.97.35/live/livestream
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="SCTV" tvg-logo="logo/sctv.png" group-title="Indonesian",Indonesian:SCTV
-http://livestreaming-a.production.liputan6.static6.com/i/sctv_1@137568/index_1_av-p.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Indosiar" tvg-logo="logo/indosiar.png" group-title="Indonesian",Indonesian:Indosiar
-http://livestreaming-a.production.liputan6.static6.com/i/indosiar_1@137568/index_1_av-p.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MetroTV" tvg-logo="logo/metrotv.png" group-title="Indonesian",Indonesian:MetroTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="France 24" tvg-logo="F24" group-title="Indonesian",Indonesian:France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Arirang" tvg-logo="Arirang" group-title="Indonesian",Indonesian:Arirang HD
-http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ABC News" tvg-logo="abc" group-title="Indonesian",Indonesian:ABC News HD
+#EXTM3U
+#EXTINF:-1 group-title="HD",.Net [HD]
+https://youtu.be/huXO_YPwgdw
+#EXTINF:-1 group-title="News",ABC News [HD]
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
+#EXTINF:-1 group-title="SD",ANTV 1
+http://smartvradar.com/hls/antv.m3u8
+#EXTINF:-1 group-title="SD",ANTV 2
+https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",ANTV 3
+http://185.152.67.33/live/tv4/index.m3u8
+#EXTINF:-1 group-title="Religion",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/player.m3u8
+#EXTINF:-1 group-title="Religion",Al Iman TV
+https://youtu.be/iiimG-5z7h8
+#EXTINF:-1 group-title="News",Al Jazeera 1 [HD]
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 group-title="News",Al Jazeera 2 [HD]
+https://youtu.be/UgJtWREOXHA
+#EXTINF:-1 group-title="Religion",Al Quran Al Kareem
+https://youtu.be/AD8segtl5h4
+#EXTINF:-1 group-title="SD",Arirang
+https://youtu.be/JVr6yiZ9IMY
+#EXTINF:-1 group-title="Sports",Bein Sports 1
+http://ball4fun.redirectme.net:1935/live1/0x777_beinsport1_360p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 2
+http://ball4fun.redirectme.net:1935/live1/0x777_beinsporthd2_360p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 3
+http://ball4fun.redirectme.net:1935/live1/0x777_beinsporthd3_360p/playlist.m3u8
+#EXTINF:-1 group-title="News",Berita Satu HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 group-title="News",Berita Satu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1 group-title="SD",Bloomberg TV
+https://mediaeuwest.akamaized.net/eu/EU440kb_live.m3u8
+#EXTINF:-1 group-title="News",DW 1
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 group-title="News",DW 2
+https://livestream-hybrid.akamaized.net/live/smil:dwtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",Euro News
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
+#EXTINF:-1 group-title="Fashion",FashionTV
+https://youtu.be/6KoT2HbGjHs
+#EXTINF:-1 group-title="Sports",Fox Sports 1
+http://ball4fun.redirectme.net:1935/ballsod365-4/0x777_foxsport1_360p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports 2
+http://ball4fun.redirectme.net:1935/ballsod365-4/0x555_foxsport2_360p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports 3
+http://ball4fun.redirectme.net:1935/ballsod365-4/0x555_foxsport3_360p/playlist.m3u8
+#EXTINF:-1 group-title="News",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="SD",GlobalTV 1
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index256.m3u8
+#EXTINF:-1 group-title="HD",GlobalTV 1 [HD]
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8
+#EXTINF:-1 group-title="SD",GlobalTV 2
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index512.m3u8
+#EXTINF:-1 group-title="HD",GlobalTV 2 [HD]
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index1024.m3u8
+#EXTINF:-1 group-title="SD",GlobalTV 3
+http://live.metube.id/tv/channel2000041/index.m3u8
+#EXTINF:-1 group-title="SD",Indosiar 1
+http://smartvradar.com/hls/indosiar.m3u8
+#EXTINF:-1 group-title="SD",Indosiar 2
+https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",Indosiar 3
+http://204.12.244.165/live/tv5/index.m3u8
+#EXTINF:-1 group-title="SD",Kompas TV 1
+http://43.245.183.170/kompastv/live.stream/index.m3u8
+#EXTINF:-1 group-title="SD",Kompas TV 2
+https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",MNC Infotainment
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000038/index.m3u8
+#EXTINF:-1 group-title="Music",MNC Music
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index.m3u8
+#EXTINF:-1 group-title="News",MNC News 1
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index256.m3u8
+#EXTINF:-1 group-title="News",MNC News 2
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index512.m3u8
+#EXTINF:-1 group-title="News",MNC News 3
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index1024.m3u8
+#EXTINF:-1 group-title="News",MNC News [HD]
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index.m3u8
+#EXTINF:-1 group-title="SD",MNC Shop
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index.m3u8
+#EXTINF:-1 group-title="SD",MNC TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index256.m3u8
+#EXTINF:-1 group-title="HD",MNC TV [HD]
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8
+#EXTINF:-1 group-title="Religion",Madinah Live
+https://youtu.be/qZh9H09-mxQ
+#EXTINF:-1 group-title="Religion",Makkah Live [HD]
+https://youtu.be/g8P2mybvMQg
+#EXTINF:-1 group-title="News",MetroTV 1
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",MetroTV 2
+https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",O Channel
+http://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Quran Hedayah
+https://youtu.be/wfDiLxO3TZo
+#EXTINF:-1 group-title="SD",RCTI 1
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index256.m3u8
+#EXTINF:-1 group-title="SD",RCTI 2
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index512.m3u8
+#EXTINF:-1 group-title="SD",RCTI 3
+http://185.152.67.33/live/tv8/index.m3u8
+#EXTINF:-1 group-title="HD",RCTI [HD]
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
+#EXTINF:-1 group-title="SD",Rajawali TV
+http://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Rodja TV 1 [HD]
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Rodja TV 2 [HD]
+rtsp://vids.rodja.tv:1935/live/rodja
+#EXTINF:-1 group-title="Religion",Rodja TV 3 [HD]
+https://youtu.be/wcstE1IBmZY
+#EXTINF:-1 group-title="SD",SCTV 1
+http://smartvradar.com/hls/sctv.m3u8
+#EXTINF:-1 group-title="SD",SCTV 2
+https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",SCTV 3
+http://204.12.244.166/live/tv2/index.m3u8
+#EXTINF:-1 group-title="Religion",Saudi 1
+https://youtu.be/AO3BUzkV1QU
+#EXTINF:-1 group-title="Religion",Saudi 2
+https://youtu.be/aNVnsmUszxc
+#EXTINF:-1 group-title="SD",TV Edukasi
+http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/index.m3u8
+#EXTINF:-1 group-title="Local",Tegar TV Lampung
+http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Time Quran
+http://62.68.66.246:8002/play/s6
+#EXTINF:-1 group-title="SD",Trans 7 [1]
+http://smartvradar.com/hls/trans7.m3u8
+#EXTINF:-1 group-title="SD",Trans 7 [2]
+https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",Trans 7 [3]
+http://204.12.244.165/live/tv7/index.m3u8
+#EXTINF:-1 group-title="SD",Trans TV [1]
+http://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",Trans TV [2]
+http://185.152.67.33/live/tv3/index.m3u8
+#EXTINF:-1 group-title="Religion",Wesal TV
+http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1 group-title="News",iNews TV 1
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index256.m3u8
+#EXTINF:-1 group-title="News",iNews TV 2
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8
+#EXTINF:-1 group-title="News",iNews TV HD
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8
+#EXTINF:-1 group-title="News",tvOne 1
+http://smartvradar.com/hls/tvone.m3u8
+#EXTINF:-1 group-title="News",tvOne 2
+https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",tvOne 3
+http://204.12.244.163/live/tv19/index.m3u8
